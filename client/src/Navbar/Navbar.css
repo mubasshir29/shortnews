@@ -1,0 +1,28 @@
+.navbar_content{
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 8vh;
+    background-color: rgb(44, 26, 137);
+    box-shadow: 1px 1px 8px 3px rgba(128, 128, 128,0.3);
+}
+
+.navbar{
+    height: 100%;
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar p{
+    margin: 0;
+}
+.logo img{
+    width: 120px;
+    height: auto;
+    object-fit: cover;
+}
