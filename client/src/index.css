@@ -2,10 +2,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: 'Amiri', serif;
-  font-family: 'Inter', sans-serif;
-  font-family: 'Poppins', sans-serif;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Noto Nastaliq Urdu';
 }
 .page_content{
   position: absolute;
