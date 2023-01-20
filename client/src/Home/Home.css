@@ -1,0 +1,48 @@
+.home-content{
+    width: 100%;
+    margin: 0 auto;
+    height: 100vh;
+}
+.home-nav-content{
+    width: 100%;
+    padding: 5px 20px;
+    height: 8vh;
+    
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(242, 242, 242);
+}
+.home-nav-content .nav-tabs{
+    display: flex;
+    width: 20%;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+.home-nav-content .nav-tabs p{
+    font-size: 1rem;
+}
+.logo{
+    width: 140px;
+    height: 50px;
+    object-fit: cover;
+}
+.phone-screen{
+    width: 500px;
+}
+.download_btn{
+    width: 140px;
+    height: 50px;
+    object-fit:fill;
+}
+.home-banner-content{
+    display: flex;
+    height: 92vh;
+    align-items: center;
+}
+
+.home-banner-content .banner-right{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
